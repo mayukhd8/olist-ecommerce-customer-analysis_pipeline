@@ -64,8 +64,3 @@ src/
 
 ```bash
 python main.py
-
-Example Output
-Monthly revenue table
-Top cities ranking
-Consistency analysis
